@@ -8,3 +8,4 @@
 ## Thoughts
 - add screeshots of drawn numbers with labels in train sample (espesially 6s, 7s and 9s)
 - make brush more like MNIST (probably the main problem)
+- draw numbers more centered
